@@ -28,8 +28,7 @@ Dart berbasis PBO, serta mendukung operator :
 '-expression' untuk negasi (yang membalikkan suatu nilai).
 Operator equality:
 
-'==' memeriksa apakah operan sama![Uploading WhatsApp Image 2024-09-19 at 08.16.07_45fde8c6.jpg…]()
-
+'==' memeriksa apakah operan sama!
 '!=' memeriksa apakah operan berbeda
 Operator relasional:
 
