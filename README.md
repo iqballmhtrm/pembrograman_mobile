@@ -28,7 +28,8 @@ Dart berbasis PBO, serta mendukung operator :
 '-expression' untuk negasi (yang membalikkan suatu nilai).
 Operator equality:
 
-'==' memeriksa apakah operan sama
+'==' memeriksa apakah operan sama![Uploading WhatsApp Image 2024-09-19 at 08.16.07_45fde8c6.jpg…]()
+
 '!=' memeriksa apakah operan berbeda
 Operator relasional:
 
@@ -37,7 +38,7 @@ Operator relasional:
 '>=' memeriksa apakah operan kiri lebih besar dari atau sama dengan operan kanan
 '<=' memeriksa apakah operan kiri kurang dari atau sama dengan operan kanan
 contoh program dart untuk menampilkan hello dengan increment alt text
-![alt text](image-1.png)
 
+![1](https://github.com/user-attachments/assets/669a7e61-293f-4b85-84d1-a5a4fa4859b7)
 
 di dart ada dartpad yang berfungsi layaknya playground agar kita bisa mencoba dart di web browser tanpa harus install dart di laptop kita
